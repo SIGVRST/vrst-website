@@ -4,9 +4,9 @@
   margin-top: 6rem;
   text-align: center; }
 .value-prop {
-  margin-top: 1rem; }
+  margin-top: 0rem; }
 .value-props {
-  margin-top: 4rem;
+  margin-top: 0rem;
   margin-bottom: 4rem; }
 .docs-header {
   text-transform: uppercase;
@@ -87,9 +87,9 @@
 /* Larger than phone */
 @media (min-width: 550px) {
   .header {
-    margin-top: 18rem; }
+    margin-top: 15rem; }
   .value-props {
-    margin-top: 9rem;
+    margin-top: 6rem;
     margin-bottom: 7rem; }
   .value-img {
     margin-bottom: 1rem; }
